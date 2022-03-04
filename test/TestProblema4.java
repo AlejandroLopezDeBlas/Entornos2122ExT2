@@ -1,6 +1,6 @@
 import org.junit.jupiter.api.Test;
 
-public class TestProblema3 {
+public class TestProblema4 {
     public String devuelveCadena(){
         String cadena = "";
         for (int i = 1; i < 20; i++) {
